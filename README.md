@@ -1,3 +1,4 @@
+Project Outline: Comprehensive Network Security Assessment
 1. Take Inventory of Your Data
 Objective: Identify and catalog all devices connected to your network to ensure comprehensive security management.
 
